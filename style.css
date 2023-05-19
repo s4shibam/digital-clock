@@ -124,7 +124,7 @@ body {
 /* ------------ Digital Clock CSS Starts ------------ */
 .container {
     height: 120px;
-    width: 420px;
+    width: 440px;
     background: linear-gradient(
         135deg,
         #c33764,
@@ -147,9 +147,9 @@ body {
     z-index: 1;
     background: rgb(37, 15, 87);
     height: 105px;
-    width: 405px;
+    width: 425px;
     border-radius: 7px;
-    background-color: rgb(20, 20, 20);
+    background-color: #000;
     color: white;
     mix-blend-mode: multiply;
 }
