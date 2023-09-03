@@ -9,6 +9,9 @@ setInterval(() => {
   let second = date.getSeconds();
   let period = 'AM';
 
+  if(hour === 0){
+    hour = 12;
+  }
   if (hour > 12) {
     period = 'PM';
     hour -= 12;
