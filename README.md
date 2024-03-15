@@ -38,9 +38,9 @@ This is a simple responsive Digital Clock.
 
 ## 🎯 Goal
 
-- To learn CSS animations
-- To learn basic JavaScript syntax
-- To practically implement JavaScript `Date` object
+- [x] To learn CSS animations
+- [x] To learn basic JavaScript syntax
+- [x] To practically implement JavaScript `Date` object
 
 
 ## 🖼️ Screenshot
