@@ -1,29 +1,54 @@
-### Clock - A Digital Clock (Time + Date + Day)
+<p align="center">
+    <a href="https://digital-clock.shibamsaha.dev">
+        <img alt="Digital Clock" width="100" src="./images/logo.png" style="border-radius: 10px">
+    </a>
+</p>
 
-**Details**
+<div align="center">
+    <h1>Digital Clock</h1>
+    <p>Digital Clock</p>
+</div>
 
-- This is a simple responsive Digital Clock.
-- The current date and day can be seen.
-- The look & design has been enhanced with a rainbow color changing effect along with an background animation of moving colorful bubbles.
+<p align="center">
+    <img src="https://img.shields.io/github/languages/code-size/s4shibam/digital-clock?style=flat-square" alt="Code Size">
+    <img src="https://img.shields.io/github/stars/s4shibam/digital-clock?style=flat-square&logo=github" alt="Stars">
+</p>
 
-**Tech Stack**
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](#)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
+<br />
 
-**Live Link**
 
-- [Digital Clock Web App](https://clock.shibamsaha.dev/)
-<!-- - Alternate Links [1](https://s4shibam-clock.netlify.app/), [2](https://s4shibam-clock.vercel.app/) -->
+## ⚡ Introduction
 
-**Reference Image**
+This is a simple responsive Digital Clock.  
 
-<img src="./media/clock.png" alt="Clock" width="640px"/>
+## ✨ Features
+  
+- Shows Time
+- Shows Date and Day
+- Rainbow bubbles background animation
+  
 
-<br/>
+## ⚙️ Tech Stack
+  
+- HTML
+- CSS
+- JavaScript
 
-**Follow Me**
+
+## 🎯 Goal
+
+- To learn CSS animations
+- To learn basic JavaScript syntax
+- To practically implement JavaScript `Date` object
+
+
+## 🖼️ Screenshot
+
+![Screenshot 1](./readme_assets/screenshot_1.png)
+
+
+## 👋🏻 Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4shibam)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s4shibam)
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=s4shibam)
